@@ -56,6 +56,4 @@ python nlp_spam_classifier.py
 
 The model tells you how good it is at finding spam messages with some scores.
 
-## License
 
-This project uses the MIT License.
